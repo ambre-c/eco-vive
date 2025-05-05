@@ -1,8 +1,11 @@
 body {
   margin: 0;
-  font-family: Lato, sans-serif;
+  font-family: Modak;
 }
 
+title {
+  font-family: Modak;
+}
 .hero {
   background-image: url(images/legumes.jpg);
   background-size: cover;
@@ -61,6 +64,7 @@ body {
   color: white;
   height: 100vh;
   font-size: 24px;
+  max-height: 500px;
 }
 .argument-content {
   margin-top: 109px;
